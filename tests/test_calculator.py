@@ -3,7 +3,7 @@ import pytest
 
 # Тест функции, вычисляющий значение выражений
 class TestCalculator:
-    # Тест операции сложения на корректных данных lfyys[
+    # Тест операции сложения на корректных данных lfy
     def test_add_on_correct(self):
         assert my_lib.calculator(100, 21, "+") == 121
 
